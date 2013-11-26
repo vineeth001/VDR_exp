@@ -1,0 +1,43 @@
+Reset... done! Now running for 50000 cycles...
+Noxim simulation completed.
+ ( 51000 cycles executed)
+% Total received packets: 18749
+% Total received flits: 112630
+% Global average delay (cycles): 23.306
+% Global average throughput (flits/cycle): 0.173557
+% Throughput (flits/cycle/IP): 0.175984
+% Max delay (cycles): 204
+% Total energy (J): 0.000235707
+PIR=
+Reset... done! Now running for 50000 cycles...
+Noxim simulation completed.
+ ( 51000 cycles executed)
+% Total received packets: 6372
+% Total received flits: 38169
+% Global average delay (cycles): 9.98258
+% Global average throughput (flits/cycle): 0.0603896
+% Throughput (flits/cycle/IP): 0.0596391
+% Max delay (cycles): 74
+% Total energy (J): 7.40621e-05
+PIR=
+Reset... done! Now running for 50000 cycles...
+Noxim simulation completed.
+ ( 51000 cycles executed)
+% Total received packets: 12574
+% Total received flits: 75294
+% Global average delay (cycles): 13.986
+% Global average throughput (flits/cycle): 0.117226
+% Throughput (flits/cycle/IP): 0.117647
+% Max delay (cycles): 133
+% Total energy (J): 0.000149934
+PIR=
+Reset... done! Now running for 50000 cycles...
+Noxim simulation completed.
+ ( 51000 cycles executed)
+% Total received packets: 18728
+% Total received flits: 112004
+% Global average delay (cycles): 22.0749
+% Global average throughput (flits/cycle): 0.172878
+% Throughput (flits/cycle/IP): 0.175006
+% Max delay (cycles): 324
+% Total energy (J): 0.00023481
